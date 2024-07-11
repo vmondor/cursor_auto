@@ -14,13 +14,13 @@ Executer la commande suivante pour commencer :
 git clone https://github.com/vmondor/cursor_auto.git cursor
 ```
 
-Ensuite entrer dans le repertoire :
+Ensuite entrez dans le repertoire :
 
 ```sh
 cd cursor
 ```
 
-Maintenant vous n'avew plus qu'a executer le programme
+Maintenant vous n'avez plus qu'a executer le programme
 
 Sur Windows :
 ```sh
