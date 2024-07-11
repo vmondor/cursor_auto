@@ -14,8 +14,8 @@ int main() {
     screen = DefaultScreen(display);
     root_window = RootWindow(display, screen);
 
-    int x = 500;
-    int y = 100;
+    int x = 800;
+    int y = 500;
 
     while (1) {
         XWarpPointer(display, None, root_window, 0, 0, 0, 0, x, y);
@@ -25,7 +25,7 @@ int main() {
         // y += 10;
 
         usleep(10000);
-        if (x > 1000) x = 500;
+        if (x > 2000) x = 800;
         if (y > 1000) y = 500;
     }
 

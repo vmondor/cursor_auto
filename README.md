@@ -4,7 +4,9 @@
 
 Compile with the following command
 
-`make [linux|windows]`
+`make windows`
+`make mac`
+`make linux`
 
 ## Usage
 
@@ -26,16 +28,22 @@ Sur Windows :
 ```sh
 make windows
 ```
-
-Sur linux :
-```sh
-make linux
-```
-
 Sur macOS :
 ```sh
 make mac
 ```
+
+Sur linux :
+
+Si vous n'avez pas la bibliotheque X11 vous devez l'installer :
+```sh
+sudo apt-get install libx11-dev
+```
+
+```sh
+make linux
+```
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
