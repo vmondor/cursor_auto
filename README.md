@@ -37,10 +37,14 @@ Sur macOS :
 make mac
 ```
 
-Pour quitter le programme il suffit juste d'appuis sur : ctrl + c
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+Pour quitter le programme il suffit juste d'appuis sur :
+
+ctrl + c
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
-Merci à vous [@vmondor](https://github.com/vmondor).\
+Merci à vous [@vmondor](https://github.com/vmondor).
