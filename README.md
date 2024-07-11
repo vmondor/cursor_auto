@@ -39,7 +39,7 @@ make mac
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-Pour quitter le programme il suffit juste d'appuis sur :
+Pour quitter le programme il suffit juste d'appuyer sur :
 
 ctrl + c
 
