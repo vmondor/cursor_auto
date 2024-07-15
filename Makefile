@@ -1,9 +1,9 @@
 linux :
-	cc -lX11 cursor_linux.c -o cursor
+	cc cursor_linux.c -o cursor -lX11
 	./cursor
 
 windows :
-	gcc -lgdi32 -o cursor
+	gcc -o cursor -lgdi32
 	./cursor
 
 fclean :
